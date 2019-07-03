@@ -5,7 +5,7 @@ This repository contains notes from each chapter of the [Deep Learning Book](htt
 ## Contents
 
 * __Part I: Applied Math and Machine Learning Basics__
-  * Chapter 2: [Linear Algebra](https://www.deeplearningbook.org/contents/linear_algebra.html) - [Notes](linear-algebra.ipynb)
+  * Chapter 2: Linear Algebra - [Original Chapter](https://www.deeplearningbook.org/contents/linear_algebra.html), [Notes](linear-algebra.ipynb)
 * __Part II: Modern Practical Deep Networks__
   
   
