@@ -1,2 +1,3 @@
-**/.idea**
+**/*.idea/
 ml-basics.yml
+**/*.ipynb_checkpoints/
